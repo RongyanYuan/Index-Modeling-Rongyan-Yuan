@@ -5,5 +5,5 @@ Here is the index modeling assessment project, and again, thank you so much for 
 # Packages used
 There are two external packages used in this project: pandas and numpy, which have been already announced in the requirement.txt file.
 
-#Contact
+# Contact
 If there is anything you need, please contact me via my [email](mailto: adrianrongyanyun@gmail.com)
