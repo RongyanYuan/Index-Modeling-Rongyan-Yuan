@@ -1,6 +1,6 @@
 # This is the Assessment Index Modelling by Rongyan Yuan
 Dear recruiter,  
-Here is the index modeling assessment project, and again, thank you so much for this opportunity!
+  Here is the index modeling assessment project, and again, thank you so much for this opportunity!
 
 # Packages used
 There are two external packages used in this project: ```pandas``` and ```numpy```, which have been already announced in the ```requirement.txt``` file.
