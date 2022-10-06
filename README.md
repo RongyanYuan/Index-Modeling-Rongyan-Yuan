@@ -1,4 +1,4 @@
-# Assessment Index Modelling by Rongyan Yuan
+# This is the assessment Index Modelling by Rongyan Yuan
 Dear recuriter,
 Here is the index modeling assessment project, and again, thank you so much for this opportunity!
 
