@@ -19,7 +19,7 @@ There are two external packages used in this project: ```pandas``` and ```numpy`
 + Index calculation: $Index_t$ = ( $R_t$ + 1 ) * $Index_0$, such that: $Index_0$: index of the first day of the month, $Index_t$: current index level
 
 # Result
-The file "export.csv" is the result index after running ```_main_.py```.
+The file "export.csv" is the result index after running ```__main__.py```.
 
 # Contact
 If there is anything you need, please contact me via my [email](mailto:adrianrongyanyun@gmail.com).
