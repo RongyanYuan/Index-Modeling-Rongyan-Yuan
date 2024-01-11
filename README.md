@@ -1,4 +1,4 @@
-# This is the Assessment Index Modelling by Rongyan Yuan
+# Index Modelling by Rongyan Yuan
 Hi Everyone
   Here is an index modeling project for your reference.
 # Packages used
